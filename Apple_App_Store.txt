@@ -3,8 +3,6 @@
 @@||*.itunes.apple.com^
 @@||apps.apple.com^
 @@||*.apps.apple.com^
-@@||mzstatic.com^
-@@||*.mzstatic.com^
 # Descargas de instaladores y Apple ID
 @@||appldnld.apple.com^
 @@||appleid.cdn-apple.com^
